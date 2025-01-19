@@ -1,0 +1,16 @@
+title: BIOL 5496
+description: WashU CMB JC fall 2024
+theme: just-the-docs
+
+url: https://washu-cmb-jc.github.io/fall2024
+
+favicon_ico: "/assets/images/favicon.ico"
+
+aux_links:
+  MyCanvas:
+    - 'https://mycanvas.wustl.edu/'
+
+collections:
+  syllabus:
+  mycanvas:
+  schedule:
