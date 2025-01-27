@@ -16,6 +16,7 @@ nav_order: 2
 
 ---
 
+*This journal club is required for the first two semesters for CSB student*, and students may opt for other journal clubs from the second year onwards.
 Anyone is welcome to attend and participate in our Journal Club. Students seeking to receive credit for Journal Club have specific responsibilities described below.
 
 ## Scope of the Journal Club
