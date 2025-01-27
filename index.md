@@ -10,9 +10,9 @@ nav_order: 1
 
 ### **Instructors:** Yang E. Li and Gabriel Haller
 
-### **Time:** TBD
+### **Time:** Monday 15:30-16:30
 
-### **Location:** TBD
+### **Location:** Room 10101, NRB
 
 ----
 
